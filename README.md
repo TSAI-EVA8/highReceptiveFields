@@ -39,7 +39,7 @@ I am making use of a code repository [StarterKit](https://github.com/TSAI-EVA8/S
 git clone https://github.com/TSAI-EVA8/StarterKit
 ```
 
-* The trainiing notebook is [S8_Solution.ipynb](https://github.com/TSAI-EVA8/advancedTraining/blob/master/Session7_Solution.ipynb) which makes use of the code in the [StarterKit](https://github.com/TSAI-EVA8/StarterKit) to perform the training. All the logic is present in the [StarterKit](https://github.com/TSAI-EVA8/StarterKit)
+* The trainiing notebook is [S8_Solution.ipynb](https://github.com/TSAI-EVA8/highReceptiveFields/blob/master/S8_Solution.ipynb) which makes use of the code in the [StarterKit](https://github.com/TSAI-EVA8/StarterKit) to perform the training. All the logic is present in the [StarterKit](https://github.com/TSAI-EVA8/StarterKit)
 
 
 
