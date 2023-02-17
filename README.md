@@ -239,7 +239,7 @@ Test set: Average loss: 0.3601, Accuracy: 8925/10000 (89.25%)
 ```
 
 We can see that the max lr of 0.041 was achieved in the 6th epoch
-
+We got a final test accuracy of **89.25%** after 24 epochs which is a little short of 90% requirement.
 
 
 ## Accuracy & loss plots
